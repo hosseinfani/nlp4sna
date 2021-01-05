@@ -1,7 +1,8 @@
 __pycache__/
 *.py[cod]
-*.pdf
 .idea/
 desktop.ini
 Icon\r
 
+Course_Outline/
+Learning_Outcome/
