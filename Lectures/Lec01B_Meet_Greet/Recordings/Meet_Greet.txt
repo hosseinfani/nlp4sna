@@ -1,0 +1,110 @@
+WEBVTT
+
+00:13:30.000 --> 00:13:30.900
+<v Muhammad Moeed Khalid>
+No prof
+
+00:13:33.000 --> 00:13:33.900
+<v Divyajeetsinh Chauhan>
+All good
+
+00:13:38.000 --> 00:13:38.900
+<v Divvya Thilaga Raj>
+No questions professor!
+
+00:21:31.000 --> 00:21:31.900
+<v Muhammad Moeed Khalid>
+Its important but probably not as much as some other fields
+
+00:21:37.000 --> 00:21:37.900
+<v Divyajeetsinh Chauhan>
+NLP is priority for sure
+
+00:21:51.000 --> 00:21:51.900
+<v Divvya Thilaga Raj>
+I feel NLP is important due to its applications 
+
+00:22:04.000 --> 00:22:04.900
+<v Divyajeetsinh Chauhan>
+divya is fine
+
+00:22:05.000 --> 00:22:05.900
+<v Megala Namisa Ravi>
+NLP is important as it makes human life easier
+
+00:22:18.000 --> 00:22:18.900
+<v Vyoma Hareshbhai Kanani>
+NLP is one of the part of AI 
+
+00:33:17.000 --> 00:33:17.900
+<v Muhammad Moeed Khalid>
+Is that big of a carbon footprint worth it?
+
+00:38:41.000 --> 00:38:41.900
+<v Jaykumar Patel>
+to make prediction
+
+00:38:58.000 --> 00:38:58.900
+<v Divvya Thilaga Raj>
+to help in stock prediction, maybe?
+
+00:39:10.000 --> 00:39:10.900
+<v Jaykumar Patel>
+data
+
+00:50:18.000 --> 00:50:18.900
+<v Muhammad Moeed Khalid>
+Nope
+
+00:50:27.000 --> 00:50:27.900
+<v Divvya Thilaga Raj>
+Yes
+
+00:50:29.000 --> 00:50:29.900
+<v Vyoma Hareshbhai Kanani>
+yes
+
+00:50:32.000 --> 00:50:32.900
+<v Megala Namisa Ravi>
+yes
+
+00:50:35.000 --> 00:50:35.900
+<v Muhammad Moeed Khalid>
+Oh if i start from the start we can
+
+00:50:41.000 --> 00:50:41.900
+<v Divyajeetsinh Chauhan>
+some but not all
+
+00:50:42.000 --> 00:50:42.900
+<v Jaykumar Patel>
+we can 
+
+00:51:34.000 --> 00:51:34.900
+<v Divvya Thilaga Raj>
+Yes due to familiarity of words
+
+01:18:31.000 --> 01:18:31.900
+<v Divyajeetsinh Chauhan>
+Prof, do we need to maintain attendence
+
+01:19:38.000 --> 01:19:38.900
+<v Divyajeetsinh Chauhan>
+Yes, its really late here in india, thank you!
+
+01:21:34.000 --> 01:21:34.900
+<v Amardeep Singh>
+Which programming language are we allowed to use for assignments ?
+
+01:22:19.000 --> 01:22:19.900
+<v Amardeep Singh>
+Okay Thanks
+
+01:22:51.000 --> 01:22:51.900
+<v Muhammad Moeed Khalid>
+Thankyou so much for the lecture professor
+
+01:22:58.000 --> 01:22:58.900
+<v Divvya Thilaga Raj>
+Thank you so much professor
+
