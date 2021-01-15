@@ -6,3 +6,7 @@ Icon\r
 
 Course_Outline/
 Learning_Outcome/
+*.mp4
+Lectures/Lec02_Text_Normalization/Colab/stanford-corenlp-4.2.0/
+Books/
+Misc/
