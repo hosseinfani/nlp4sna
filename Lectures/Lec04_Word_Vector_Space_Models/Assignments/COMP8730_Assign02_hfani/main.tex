@@ -1,0 +1,65 @@
+\documentclass[sigconf]{acmart}
+
+% \renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
+\pagestyle{fancy} % removes running headers
+
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+\setlength{\headsep}{0pt}
+\setlength{\topskip}{0pt}
+\setlength{\topmargin}{0pt}
+\setlength{\topsep}{0pt}
+\setlength{\partopsep}{0pt}
+%\linespread{0.95}
+\usepackage{mdwlist}
+
+\usepackage{amsmath}
+\fancyhead{}
+\settopmatter{printacmref=false, printfolios=false}
+% Copyright
+\setcopyright{none}
+% \setcopyright{acmcopyright}
+% \setcopyright{acmlicensed}
+% \setcopyright{rightsretained}
+% \setcopyright{usgov}
+% \setcopyright{usgovmixed}
+% \setcopyright{cagov}
+% \setcopyright{cagovmixed}
+
+\settopmatter{printacmref=false} % Removes citation information below abstract
+\begin{document}
+\title{Vector Semantics Evaluation}
+\titlenote{Link to Github or an online repo}
+\author{Hossein Fani}
+% \authornotemark[1]
+\orcid{0000-0002-6033-6564}
+\affiliation{
+ \institution{University of Windsor}
+%   \city{Fredericton} 
+%   \state{NB} 
+%   \country{Canada} 
+}\email{hfani@uwindsor.ca}
+
+\maketitle
+
+\section{Introduction}
+\textit{Some intro about lexical semantics and vector semantics. }.
+\section{Motivation}
+\textit{Why we do such experiments.} 
+\subsection{Motivating Example}
+\textit{A motivating example that shows the both difference and similarities between the two approaches to find the semantics of words (just showing two lists for a word that shows the top-10 most similar words based on lexical and vector semantics).}
+\section{Problem Definition}
+\textit{Formulate the problem.} 
+\section{Experiment}
+\subsection{Datasets}
+\textit{Some explanation about the golden datasets, stats such as number of tokens, ... about the large corpora that are chosen, ....}
+\subsection{Baselines}
+\textit{an explanation about what the vector semantics are and how they are computed. Also, what the running parameters in your experiment. }
+\subsection{Results}
+\textit{Reporting the performance in table or bar charts for MAP and nDCG.}
+\subsection{Findings}
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{bibliography.bib} 
+
+\end{document}
+
