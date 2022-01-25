@@ -1,4 +1,4 @@
-# 2021: NLP 4 SNA 
+# 2022: NLP 4 SNA 
 Materials for the Computer Science Course "[Natural Language Processing & Understanding](./Course_Outline.pdf)" with a focus on Social Media (Social Network Analysis)
 
 ## License
